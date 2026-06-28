@@ -1,4 +1,4 @@
-# Sales-Data-Analysis
+# Sales-Data-analysis.py
 This is beginner project. Hope you liked it.
 
 import pandas as pd
